@@ -1,1 +1,1 @@
-https://kalaiyarasan-portfolio.netlify.app/
+https://portfoliokalai.netlify.app/
