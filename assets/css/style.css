@@ -248,7 +248,7 @@ nav{
 }
 @keyframes imgFloat {
     50%{
-        transform: translateY(10px);
+        transform: translate(10px);
         border-radius: 45% 55% 45% 55%;
     }
 }
